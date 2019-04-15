@@ -1,5 +1,5 @@
 # Bees-Breeding-Problem
-Solution in C# for Bees Breeding Problem
+Solution in C# and Java for Bees Breeding Problem
 
 
 Professor B. Heif is conducting experiments with a species of South American bees that he found during an expedition to the Brazilian rain forest. The honey produced by these bees is of superior quality compared to the honey from European and North American honey bees. Unfortunately, the bees do not breed well in captivity. Professor Heif thinks the reason is that the placement of the different maggots (for workers, queens, etc.) within the honeycomb depends on environmental conditions, which are different in his laboratory and the rain forest.
